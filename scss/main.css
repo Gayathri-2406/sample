@@ -1,0 +1,10 @@
+.loginpage {
+  width: 500px;
+  height: 500px;
+  border: 1px solid red;
+  margin: 0 auto;
+  padding: 140px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*# sourceMappingURL=main.css.map */
